@@ -1,0 +1,12 @@
+Enter the city name: miraj
+-------------------------------------------------------------
+Weather Stats for - MIRAJ  || 23 Jun 2021 | 06:46:38 PM
+-------------------------------------------------------------
+Current temperature is: 26.80 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 66 %
+Current wind speed    : 7.4 kmph
+{"coord":{"lon":74.6432,"lat":16.819},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"base":"stations","main":{"temp":299.95,
+"feels_like":301.39,"temp_min":299.95,"temp_max":299.95,"pressure":1008,"humidity":66,"sea_level":1008,"grnd_level":946},"visibility":10000,"wind":{"speed":7.4,"deg":
+265,"gust":8.12},"clouds":{"all":100},"dt":1624454195,"sys":{"country":"IN","sunrise":1624408178,"sunset":1624455449},"timezone":19800,"id":1257416,"name":"Miraj",
+"cod":200}
